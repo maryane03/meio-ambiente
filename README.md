@@ -1,10 +1,10 @@
-<!doctyle html.>
-<html>
-    <head>
-        <meta charset="utf-8"
-        <title> desmatamento </title>
-        <link red="stylesheet"href="style.css">
-    </head>
-    <body>
-        <header>
-<h1 class="titulo-principal"> desmatamento</h1>
+<!DOCTYPE html>
+<html charset= "utf-8">
+<head>
+<title> desmatamento </title>
+</head>
+<body>
+<link rel = "href=" planeta.jpg">
+<title strong> causas e consequencias do desmatamento <title strong/>
+<p> causas:queimada; <p/>
+<p> extração de madeira <p/>
